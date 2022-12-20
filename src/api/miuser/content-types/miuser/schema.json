@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "miusers",
+  "info": {
+    "singularName": "miuser",
+    "pluralName": "miusers",
+    "displayName": "Miuser"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "username": {
+      "type": "string"
+    }
+  }
+}

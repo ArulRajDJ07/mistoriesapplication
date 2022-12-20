@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "usepreferenecs",
+  "info": {
+    "singularName": "usepreferenec",
+    "pluralName": "usepreferenecs",
+    "displayName": "usepreferenec"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Test": {
+      "type": "string"
+    }
+  }
+}
